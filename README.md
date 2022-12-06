@@ -22,3 +22,10 @@
  {total_amount} will be replaced with the total amount of the spells he gave.<br>
  If you don't want the bot to message any event keep the message empty.
 
+### How to start the bot
+ - Open terminal.<br>
+ - cd ./your/path/to/the/folder
+ - npm start (to start the bot after you have the the .env and config files)
+ - open your browser and go to http://localhost:3000
+ - login with trovo
+ - see the console if the bot has succesfully connected
