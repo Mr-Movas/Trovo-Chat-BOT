@@ -1,0 +1,10 @@
+{
+    "spells": "Thank you @{username} for the {total_amount} {spell_type}.",
+    "magic_chat_super_cap_chat": "Thank you @{username} for the super cap. You are the best!",
+    "magic_chat_colorful_chat": "Thank you @{username} for the colorful chat. You are the best!",
+    "magic_chat_spell_chat": "Thank you @{username} for the spell chat. You are the best!",
+    "magic_chat_bullet_screen_chat": "Thank you @{username} for the bullet screen chat. You are the best!",
+    "subscription": "Thank you @{username} for the subscription.",
+    "random_gift_subscription": "Thank you @{username} for the gifting {total_amount} subscriptions.",
+    "gift_subscription": "Thank you @{username} for gifting a subscription."
+}
